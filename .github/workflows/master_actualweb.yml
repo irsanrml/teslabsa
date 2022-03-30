@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'actualweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_656587FB78BB4E56820D6DF6D7025352 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C0AB767FA594EBBA837A4F26C7DEF0E }}
           package: .
